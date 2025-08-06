@@ -1,0 +1,33 @@
+body{
+    background-image: url(pen4.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+form{
+    border: solid 1px white hidden;
+    width: 500px;
+    padding-left: 10px;
+    margin-left: 100px;
+}
+h1{
+    color: coral;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    color: white;
+}
+input{
+    height: 26px;
+    width: 350px;
+    border-radius: 20px;
+}
+button{
+    background-color:crimson;
+    border-radius: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: cornsilk;
+}
